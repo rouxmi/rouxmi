@@ -1,5 +1,22 @@
+<h1 align="center"><img src="image/bike.png" width="30"/>Bourdais Rémi</h1>
+
+<p align="center">
+I'm an Artificial Intelligence and Big Data student at Telecom Nancy, currently in 4th. I'm interrested in immersive Web-application and cybersecurity. 
+When I'm not coding, i'm probably ridding my bike somewhere.
+</p>
+
+
+<br>
+<h2>A glimps of my tech stack</h2>
+
+
+
+
+
+---
+
 <details>
-  <summary><b>:bar_chart: &nbsp;My GitHub Statistics</b></summary>
+  <summary><h3><b>:bar_chart: &nbsp;My GitHub Statistics</b></h3></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=rouxmi&hide_border=true&theme=dark" />

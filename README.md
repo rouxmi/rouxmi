@@ -1,17 +1,18 @@
-<h1 align="center"><img src="image/bike.png" width="30"/>Rémi Bourdais</h1>
+<h1 align="center">:v:&nbsp;Rémi Bourdais </h1>
+
 
 <p align="center">
-I'm an Artificial Intelligence and Big Data student at Telecom Nancy, currently in 4th. I'm interrested in immersive Web-application and cybersecurity. 
-When I'm not coding, i'm probably ridding my bike somewhere.
+I'm an Artificial Intelligence and Big Data student at Telecom Nancy :man_technologist: &nbsp;, currently in 4th. I'm interrested in immersive Web-application and cybersecurity. 
+:biking_man: &nbsp; When I'm not coding, i'm probably ridding my bike somewhere.
 </p>
 
 
 <br>
 
-<h2 align="center"> :web: &nbsp;My Website:</h2>
+<h2 align="center"> :man:&nbsp;My Website:</h2>
 <p align="center">
     <a href="https://remi-bourdais.fr/">
-        <img src="https://img.shields.io/badge/Website-remi--bourdais.fr-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+        Click here
     </a>
 </p>
 
@@ -21,16 +22,17 @@ When I'm not coding, i'm probably ridding my bike somewhere.
 <h2 align="center">A glimps of my tech stack</h2>
 
 <p align="center">
-	<img title="C" alt="C" src="image/C.png" width=50 height=80  style="vertical-align:down; margin:4px"/>
-	<img title="ASM" alt="ASM" src="image/ASM.png" width=50 height=80 style="vertical-align:down; margin:4px"/>
-	<img title="Flutter" alt="Flutter" src="image/flutter.png"  width=50 height=80 style="vertical-align:down; margin:4px"/>
-	<img title="Python" alt="Python" src="image/python.png"  width=50 height=80 style="vertical-align:down; margin:4px"/>
-	<img title="R" alt="R" src="image/r-lang.svg"   width=50 height=80 style="vertical-align:down; margin:4px"/>
-	<img title="Java" alt="Java" src="image/Java.png"  width=50 height=80 style="vertical-align:down; margin:4px"/>
-	<img title="golang" alt="Go" src="image/golang.png"  width=50 height=80 style="vertical-align:down; margin:4px"/>
-	<img title="Git" alt="Git" src="image/git.png"   width=50 height=80 style="vertical-align:down; margin:4px"/>
-	<img title="Javascript" alt="Javascript" src="image/javascript.png"  width=50 height=80 style="vertical-align:down; margin:4px"/>	
-	<img title="Tableau" alt="Tableau" src="image/tableau.svg" width="200" style="vertical-align:down; margin:4px"/>
+	<img title="C" alt="C" src="image/C.png" width=80 height=80  style="vertical-align:down; margin:10px"/>
+	<img title="ASM" alt="ASM" src="image/ASM.png" width=80 height=80 style="vertical-align:down; margin:10px"/>
+	<img title="Flutter" alt="Flutter" src="image/flutter.png"  width=80 height=80 style="vertical-align:down; margin:10px"/>
+	<img title="Python" alt="Python" src="image/python.png"  width=80 height=80 style="vertical-align:down; margin:10px"/>
+	<img title="R" alt="R" src="image/r-lang.svg"   width=80 height=80 style="vertical-align:down; margin:10px"/>
+	<img title="Java" alt="Java" src="image/Java.png"  width=80 height=80 style="vertical-align:down; margin:10px"/>
+	<img title="golang" alt="Go" src="image/golang.png"  width=60 height=80 style="vertical-align:down; margin:10px"/>
+	<img title="Git" alt="Git" src="image/git.png"   width=80 height=80 style="vertical-align:down; margin:10px"/>
+	<img title="Javascript" alt="Javascript" src="image/javascript.png"  width=80 height=80 style="vertical-align:down; margin:10px"/>
+	<br/>
+	<img title="Tableau" alt="Tableau" src="image/tableau.svg" width="300" height=80 style="vertical-align:down; margin:4px"/>
 </p>
 
 ---

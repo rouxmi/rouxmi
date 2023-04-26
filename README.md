@@ -2,20 +2,16 @@
 
 
 <p align="center">
-I'm an Artificial Intelligence and Big Data student at Telecom Nancy :man_technologist: &nbsp;, currently in 4th. I'm interrested in immersive Web-application and cybersecurity. 
-:biking_man: &nbsp; When I'm not coding, i'm probably ridding my bike somewhere.
+I'm an Artificial Intelligence and Big Data student at Telecom Nancy :man_technologist: &nbsp;, currently in 4th. I'm interrested in immersive Web-application and cybersecurity. When I'm not coding, i'm probably ridding my bike somewhere. :biking_man: &nbsp;
 </p>
 
 
 <br>
 
-<h2 align="center"> :man:&nbsp;My Website:</h2>
-<p align="center">
-    <a href="https://remi-bourdais.fr/">
-        Click here
-    </a>
-</p>
+<div align = center >
 
+[<kbd> <br> My website <br> </kbd>][WWW]
+</div>
 
 <br>
 
@@ -46,9 +42,14 @@ I'm an Artificial Intelligence and Big Data student at Telecom Nancy :man_techno
     <p align="center">
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=rouxmi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rouxmi&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dark&size_weight=0.5&count_weight=0" />
     </p>
+	
+	
 </details>
 
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=rouxmi&style=plastic&label=Views"><img>
 </p>
+
+
+[WWW]: https://www.remi-bourdais.fr

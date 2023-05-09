@@ -2,7 +2,7 @@
 
 
 <p align="center">
-I'm an Artificial Intelligence and Big Data student at Telecom Nancy :man_technologist: &nbsp;, currently in 4th. I'm interrested in immersive Web-application and cybersecurity. When I'm not coding, i'm probably ridding my bike somewhere. :biking_man: &nbsp;
+I'm an Artificial Intelligence and Big Data student at Telecom Nancy :man_technologist: &nbsp;, currently in my 4th year of study. I'm interrested in immersive Web-application and cybersecurity. When I'm not coding, i'm probably ridding my bike somewhere. :biking_man: &nbsp;
 </p>
 
 
